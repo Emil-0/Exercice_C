@@ -1,0 +1,15 @@
+/Users/emilien/Projects/PoissonEx/PoissonEx/bin/Debug/net5.0/PoissonEx.deps.json
+/Users/emilien/Projects/PoissonEx/PoissonEx/bin/Debug/net5.0/PoissonEx.runtimeconfig.json
+/Users/emilien/Projects/PoissonEx/PoissonEx/bin/Debug/net5.0/PoissonEx.runtimeconfig.dev.json
+/Users/emilien/Projects/PoissonEx/PoissonEx/bin/Debug/net5.0/PoissonEx.dll
+/Users/emilien/Projects/PoissonEx/PoissonEx/bin/Debug/net5.0/ref/PoissonEx.dll
+/Users/emilien/Projects/PoissonEx/PoissonEx/bin/Debug/net5.0/PoissonEx.pdb
+/Users/emilien/Projects/PoissonEx/PoissonEx/obj/Debug/net5.0/PoissonEx.csproj.AssemblyReference.cache
+/Users/emilien/Projects/PoissonEx/PoissonEx/obj/Debug/net5.0/PoissonEx.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emilien/Projects/PoissonEx/PoissonEx/obj/Debug/net5.0/PoissonEx.AssemblyInfoInputs.cache
+/Users/emilien/Projects/PoissonEx/PoissonEx/obj/Debug/net5.0/PoissonEx.AssemblyInfo.cs
+/Users/emilien/Projects/PoissonEx/PoissonEx/obj/Debug/net5.0/PoissonEx.csproj.CoreCompileInputs.cache
+/Users/emilien/Projects/PoissonEx/PoissonEx/obj/Debug/net5.0/PoissonEx.dll
+/Users/emilien/Projects/PoissonEx/PoissonEx/obj/Debug/net5.0/ref/PoissonEx.dll
+/Users/emilien/Projects/PoissonEx/PoissonEx/obj/Debug/net5.0/PoissonEx.pdb
+/Users/emilien/Projects/PoissonEx/PoissonEx/obj/Debug/net5.0/PoissonEx.genruntimeconfig.cache

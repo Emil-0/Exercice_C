@@ -1,0 +1,15 @@
+/Users/emilien/Projects/Véhicule_Ex/Véhicule_EX/bin/Debug/net5.0/Véhicule_EX.deps.json
+/Users/emilien/Projects/Véhicule_Ex/Véhicule_EX/bin/Debug/net5.0/Véhicule_EX.runtimeconfig.json
+/Users/emilien/Projects/Véhicule_Ex/Véhicule_EX/bin/Debug/net5.0/Véhicule_EX.runtimeconfig.dev.json
+/Users/emilien/Projects/Véhicule_Ex/Véhicule_Ex/bin/Debug/net5.0/Véhicule_EX.dll
+/Users/emilien/Projects/Véhicule_Ex/Véhicule_EX/bin/Debug/net5.0/ref/Véhicule_EX.dll
+/Users/emilien/Projects/Véhicule_Ex/Véhicule_Ex/bin/Debug/net5.0/Véhicule_EX.pdb
+/Users/emilien/Projects/Véhicule_Ex/Véhicule_Ex/obj/Debug/net5.0/Véhicule_EX.csproj.AssemblyReference.cache
+/Users/emilien/Projects/Véhicule_Ex/Véhicule_Ex/obj/Debug/net5.0/Véhicule_EX.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emilien/Projects/Véhicule_Ex/Véhicule_Ex/obj/Debug/net5.0/Véhicule_EX.AssemblyInfoInputs.cache
+/Users/emilien/Projects/Véhicule_Ex/Véhicule_Ex/obj/Debug/net5.0/Véhicule_EX.AssemblyInfo.cs
+/Users/emilien/Projects/Véhicule_Ex/Véhicule_Ex/obj/Debug/net5.0/Véhicule_EX.csproj.CoreCompileInputs.cache
+/Users/emilien/Projects/Véhicule_Ex/Véhicule_Ex/obj/Debug/net5.0/Véhicule_EX.dll
+/Users/emilien/Projects/Véhicule_Ex/Véhicule_Ex/obj/Debug/net5.0/ref/Véhicule_EX.dll
+/Users/emilien/Projects/Véhicule_Ex/Véhicule_Ex/obj/Debug/net5.0/Véhicule_EX.pdb
+/Users/emilien/Projects/Véhicule_Ex/Véhicule_EX/obj/Debug/net5.0/Véhicule_EX.genruntimeconfig.cache
