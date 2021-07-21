@@ -1,0 +1,10 @@
+C:\Users\emili\source\repos\Projet_Boutons\Projet_Boutons\bin\Debug\Projet_Boutons.exe.config
+C:\Users\emili\source\repos\Projet_Boutons\Projet_Boutons\bin\Debug\Projet_Boutons.exe
+C:\Users\emili\source\repos\Projet_Boutons\Projet_Boutons\bin\Debug\Projet_Boutons.pdb
+C:\Users\emili\source\repos\Projet_Boutons\Projet_Boutons\obj\Debug\Projet_Boutons.csproj.AssemblyReference.cache
+C:\Users\emili\source\repos\Projet_Boutons\Projet_Boutons\obj\Debug\Projet_Boutons.Properties.Resources.resources
+C:\Users\emili\source\repos\Projet_Boutons\Projet_Boutons\obj\Debug\Projet_Boutons.csproj.GenerateResource.cache
+C:\Users\emili\source\repos\Projet_Boutons\Projet_Boutons\obj\Debug\Projet_Boutons.csproj.CoreCompileInputs.cache
+C:\Users\emili\source\repos\Projet_Boutons\Projet_Boutons\obj\Debug\Projet_Boutons.exe
+C:\Users\emili\source\repos\Projet_Boutons\Projet_Boutons\obj\Debug\Projet_Boutons.pdb
+C:\Users\emili\source\repos\Projet_Boutons\Projet_Boutons\obj\Debug\Projet_Boutons.Couleurs.resources
